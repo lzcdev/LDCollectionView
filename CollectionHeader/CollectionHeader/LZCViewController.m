@@ -9,7 +9,7 @@
 #import "LZCViewController.h"
 #import "LZCCollectionViewCell.h"
 #import "LZCCollectionReusableView.h"
-@interface LZCViewController ()
+@interface LZCViewController ()<UICollectionViewDataSource,UICollectionViewDelegateFlowLayout,UICollectionViewDelegate>
 {
     UICollectionViewFlowLayout *flowLayout;
     UICollectionView *collectionView;

@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface LZCViewController : UIViewController<UICollectionViewDataSource,UICollectionViewDelegateFlowLayout,UICollectionViewDelegate>
+@interface LZCViewController : UIViewController
 
 @end
