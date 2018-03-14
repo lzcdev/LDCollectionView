@@ -1,2 +1,2 @@
-# LZCCollectionView
-CollectionView和CollectionReusableView的使用
+# LDCollectionView
+
